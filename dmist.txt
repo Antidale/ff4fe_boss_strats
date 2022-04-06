@@ -1,0 +1,25 @@
+===== D Mist =====
+
+==== Summary ====
+The D.Mist fight is pretty straightforward, but at times can be a significant time sink.  As long as you never attack while D.Mist is in mist form, only one PC can ever be knocked per attack, and you have a good chunk of recovery time while D.Mist is in mist form.  This is a great time to wake people up, re-apply blink, use Bluff.
+
+Fast actions (attack, nuke, virus, item tosses) are generally preferable to slower actions (jump, power, tier 3 spells). However, you can time the queuing of slower actions during mist phase to have them resolve when D.Mist has transformed back into a vulernable form.
+
+At low level, life potions, blink, and perseverance can win the day as long as you're not at speed deficit.
+
+D.Mist is a great target for high-powered darts, since you won't want to berserk until you think you'll end the fight in that vulnerable phase.
+
+==== Basic Fight Flow ====
+  * Attack
+  * Attack
+  * Attack
+  * Transform to mist form (immune to all player attacks/spells/etc)
+  * Transform out of mist form
+  * Repeat
+
+==== Reactions ====
+When in Mist, uses Cold Mist. Cold Mist bypasses Wall and targets your entire pary 
+
+==== Resistances ====
+Absorbs Holy spells, resists Holy weapon attacks
+
